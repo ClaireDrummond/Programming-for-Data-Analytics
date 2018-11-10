@@ -1,14 +1,24 @@
 # Programming-for-Data-Analytics
-An Investigation into the numpy.random package
+I have been given the task of Investigating the numpy.random package and presenting the analysis in a Jupyter Notebook.  My work explains the overall purpose of the Numpy package, explains the use of 'Simple random data' and 'Permutations' functions and explains the use of seeds in generating pseudorandom numbers.
 
-# Reference
-http://www.numpy.org
-https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
-http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
-https://en.wikipedia.org/wiki/Probability_density_function
-https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)
-https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
-https://stackoverflow.com/questions/27644617/difference-between-n-and-size-parameters-in-np-random-binomialn-p-size-1000
-https://en.wikipedia.org/wiki/Poisson_distribution
-https://www.packtpub.com/mapt/book/application_development/9781783284375/11/ch11lvl1sec167/generating-random-numbers-from-a-poisson-distribution
-https://en.wikipedia.org/wiki/Random_seed
+## The 5 distributions that I have chosen to investigate are: 
+Nominal Distribution
+Uniform Distribution
+Binomial Distribution
+Power Distribution
+Poisson Distribution
+
+# How to Run the Jupyter Notebook
+https://jupyter.readthedocs.io/en/latest/running.html
+
+After you have installed the Jupyter Notebook on your computer, you are ready to run the notebook server. You can start the notebook server from the command line (using Terminal on Mac/Linux, Command Prompt on Windows) by running:
+
+'jupyter notebook'
+
+This will print some information about the notebook server in your terminal, including the URL of the web application 
+
+When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest level directory containing notebooks. Often this will be your home directory.
+
+In the browser, please see programming for data-analytics-ipynb for the main body of work.
+
+
